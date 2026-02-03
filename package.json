@@ -9,7 +9,7 @@
   "author": "fer",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
-    "yargs": "^15.3.1"
+    "axios": "^1.13.4",
+    "yargs": "^18.0.0"
   }
 }
